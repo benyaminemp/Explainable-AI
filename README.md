@@ -54,12 +54,6 @@ Both scripts will train a Random Forest classifier on the Breast Cancer dataset 
 
 ---
 
-## 📺 Example Outputs
-
-Add example plots here, e.g. SHAP summary or LIME output screenshots.
-
----
-
 ## 📃 References
 
 - [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
