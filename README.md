@@ -17,7 +17,7 @@ This project demonstrates how to apply model-agnostic explainability techniques 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Explainable-AI.git
+git clone https://github.com/benyaminemp/Explainable-AI-XAI.git
 cd Explainable-AI
 ```
 
