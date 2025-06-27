@@ -65,9 +65,3 @@ Add example plots here, e.g. SHAP summary or LIME output screenshots.
 - [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
 - [LIME GitHub](https://github.com/marcotcr/lime)
 
----
-
-## 🧑‍💻 Author
-
-Benyamin Ebrahimpour  
-📧 [GitHub](https://github.com/benyaminemp)
